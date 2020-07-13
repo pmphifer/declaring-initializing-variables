@@ -1,0 +1,13 @@
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.AssemblyInfo.cs
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.exe
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.deps.json
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.runtimeconfig.json
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.runtimeconfig.dev.json
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.dll
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\bin\Debug\netcoreapp3.1\WeekOneHomework.pdb
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.dll
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.pdb
+C:\Users\pauli\source\repos\WeekOneHomework\WeekOneHomework\obj\Debug\netcoreapp3.1\WeekOneHomework.genruntimeconfig.cache
